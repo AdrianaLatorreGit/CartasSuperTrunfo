@@ -2,6 +2,8 @@
 
 // Super Trunfo - Comparação de Cartas
 
+//Teste Mestre
+
 int main() {
     // Declaração de variáveis para a primeira carta
     char codigo1[20], nome1[30];
